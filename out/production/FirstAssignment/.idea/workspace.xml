@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb85bc7e-780e-4e16-a7d8-7831c9f9d406" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FirstAssignment/RemoveValueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstAssignment/package.bluej" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContainsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GetFirstElementTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GetLastElementTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GetNumberOfOccurrencesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAssignment/GetNumberOfOccurrencesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GetSecondElementTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAssignment/GetSecondElementTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GetSecondToLastElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAssignment/GetSecondToLastElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IsPalindromicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAssignment/IsPalindromicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IsPangramicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAssignment/IsPangramicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoveConsecutiveDuplicatesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAssignment/RemoveConsecutiveDuplicatesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemovePackDuplicatesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAssignment/RemovePackDuplicatesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoveValueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAssignment/ReverseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringArrayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAssignment/StringArrayUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringArrayUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstAssignment/StringArrayUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.bluej" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstAssignment/IsPangramicTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstAssignment/RemoveConsecutiveDuplicatesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FirstAssignment/RemovePackDuplicatesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstAssignment/GetLastElementTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="2" column="5" selection-start-line="2" selection-end-line="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstAssignment/RemoveValueTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstAssignment/StringArrayUtilsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3585">
+              <caret line="239" column="68" selection-start-line="239" selection-start-column="68" selection-end-line="239" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstAssignment/ReverseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstAssignment/StringArrayUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstAssignment/IsPalindromicTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstAssignment/GetNumberOfOccurrencesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/IsPalindromicTest.java" />
+        <option value="$PROJECT_DIR$/StringArrayUtils.java" />
+        <option value="$PROJECT_DIR$/GetSecondElementTest.java" />
+        <option value="$PROJECT_DIR$/GetNumberOfOccurrencesTest.java" />
+        <option value="$PROJECT_DIR$/FirstAssignment/GetLastElementTest.java" />
+        <option value="$PROJECT_DIR$/FirstAssignment/GetNumberOfOccurrencesTest.java" />
+        <option value="$PROJECT_DIR$/FirstAssignment/GetSecondElementTest.java" />
+        <option value="$PROJECT_DIR$/FirstAssignment/GetSecondToLastElement.java" />
+        <option value="$PROJECT_DIR$/FirstAssignment/IsPalindromicTest.java" />
+        <option value="$PROJECT_DIR$/FirstAssignment/IsPangramicTest.java" />
+        <option value="$PROJECT_DIR$/FirstAssignment/RemoveConsecutiveDuplicatesTest.java" />
+        <option value="$PROJECT_DIR$/FirstAssignment/RemoveValueTest.java" />
+        <option value="$PROJECT_DIR$/FirstAssignment/ReverseTest.java" />
+        <option value="$PROJECT_DIR$/FirstAssignment/StringArrayUtilsTest.java" />
+        <option value="$PROJECT_DIR$/FirstAssignment/ContainsTest.java" />
+        <option value="$PROJECT_DIR$/FirstAssignment/GetFirstElementTest.java" />
+        <option value="$PROJECT_DIR$/FirstAssignment/StringArrayUtils.java" />
+        <option value="$PROJECT_DIR$/FirstAssignment/StringArrayUtilsTest2.java" />
+        <option value="$PROJECT_DIR$/FirstAssignment/RemovePackDuplicatesTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="838" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FirstAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAssignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAssignment" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstAssignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAssignment" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="FirstAssignment" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/FirstAssignment" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RemovePackDuplicatesTest">
+    <configuration name="GetNumberOfOccurrencesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FirstAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FirstAssignment" />
+      <option name="MAIN_CLASS_NAME" value="FirstAssignment.GetNumberOfOccurrencesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveConsecutiveDuplicatesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FirstAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FirstAssignment" />
+      <option name="MAIN_CLASS_NAME" value="FirstAssignment.RemoveConsecutiveDuplicatesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemovePackDuplicatesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FirstAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FirstAssignment" />
+      <option name="MAIN_CLASS_NAME" value="FirstAssignment.RemovePackDuplicatesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FirstAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FirstAssignment" />
+      <option name="MAIN_CLASS_NAME" value="FirstAssignment.RemoveValueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FirstAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FirstAssignment" />
+      <option name="MAIN_CLASS_NAME" value="FirstAssignment.ReverseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wafi" type="JUnit" factoryName="JUnit">
+      <module name="FirstAssignment" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.wafi" />
+      <item itemvalue="JUnit.RemoveValueTest" />
+      <item itemvalue="JUnit.RemoveConsecutiveDuplicatesTest" />
+      <item itemvalue="JUnit.RemovePackDuplicatesTest" />
+      <item itemvalue="JUnit.GetNumberOfOccurrencesTest" />
+      <item itemvalue="JUnit.ReverseTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RemovePackDuplicatesTest" />
+        <item itemvalue="JUnit.RemoveConsecutiveDuplicatesTest" />
+        <item itemvalue="JUnit.RemoveValueTest" />
+        <item itemvalue="JUnit.ReverseTest" />
+        <item itemvalue="JUnit.GetNumberOfOccurrencesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb85bc7e-780e-4e16-a7d8-7831c9f9d406" name="Default Changelist" comment="" />
+      <created>1583513604404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583513604404</updated>
+      <workItem from="1583513606842" duration="9669000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RemoveValueTest - 2020.03.06 at 14h 56m 53s.xml">
+      <configuration name="RemoveValueTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemoveValueTest - 2020.03.06 at 14h 57m 39s.xml">
+      <configuration name="RemoveValueTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemoveValueTest - 2020.03.06 at 14h 58m 36s.xml">
+      <configuration name="RemoveValueTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseTest - 2020.03.06 at 14h 59m 51s.xml">
+      <configuration name="ReverseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemoveValueTest - 2020.03.06 at 15h 00m 04s.xml">
+      <configuration name="RemoveValueTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemovePackDuplicatesTest - 2020.03.06 at 15h 00m 09s.xml">
+      <configuration name="RemovePackDuplicatesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemovePackDuplicatesTest - 2020.03.06 at 15h 00m 14s.xml">
+      <configuration name="RemovePackDuplicatesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemoveConsecutiveDuplicatesTest - 2020.03.06 at 15h 00m 18s.xml">
+      <configuration name="RemoveConsecutiveDuplicatesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemovePackDuplicatesTest - 2020.03.06 at 15h 00m 23s.xml">
+      <configuration name="RemovePackDuplicatesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemovePackDuplicatesTest - 2020.03.06 at 15h 08m 59s.xml">
+      <configuration name="RemovePackDuplicatesTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9669000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3980464" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.4957265" weight="0.37857142" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50305253" side_tool="true" visible="true" weight="0.27857143" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969475" visible="true" weight="0.27857143" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981685" weight="0.3989796" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FirstAssignment/ContainsTest.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FirstAssignment.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+          <folding>
+            <element signature="e#6484#6648#0" expanded="true" />
+            <element signature="e#6647#6648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAssignment/package.bluej">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAssignment/ContainsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAssignment/GetFirstElementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAssignment/GetSecondElementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAssignment/GetSecondToLastElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAssignment/IsPalindromicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAssignment/IsPangramicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAssignment/GetNumberOfOccurrencesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAssignment/ReverseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAssignment/RemoveValueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAssignment/RemoveConsecutiveDuplicatesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAssignment/StringArrayUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3585">
+          <caret line="239" column="68" selection-start-line="239" selection-start-column="68" selection-end-line="239" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAssignment/StringArrayUtilsTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAssignment/StringArrayUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAssignment/GetLastElementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="5" selection-start-line="2" selection-end-line="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstAssignment/RemovePackDuplicatesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
